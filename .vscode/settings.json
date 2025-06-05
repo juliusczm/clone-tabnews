@@ -9,7 +9,7 @@
     "editor.wordWrap": "on",
     "editor.formatOnSave": true,
     "editor.tabSize": 4,
-    "terminal.integrated.fontFamily": "FiraCode Nerd Font Mono",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontWeight": "normal",
     "editor.inlayHints.enabled": "on",
