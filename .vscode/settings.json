@@ -12,7 +12,7 @@
     "terminal.integrated.fontFamily": "JetBrains Mono",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontWeight": "normal",
-    "editor.inlayHints.enabled": "on",
+    "editor.inlayHints.enabled": "offUnlessPressed",
     "editor.inlayHints.padding": true,
     "javascript.inlayHints.parameterNames.enabled": "all",
     "typescript.inlayHints.parameterNames.enabled": "all",
