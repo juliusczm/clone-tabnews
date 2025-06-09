@@ -1,24 +1,26 @@
 {
-    //"editor.fontFamily": "JetBrains Mono",
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.fontSize": 14,
-    "editor.lineHeight": 24,
-    "editor.fontLigatures": true,
-    "editor.fontWeight": "normal",
-    "editor.tabCompletion": "on",
-    "editor.wordWrap": "on",
-    "editor.formatOnSave": true,
-    "editor.tabSize": 4,
-    "terminal.integrated.fontFamily": "JetBrains Mono",
-    "terminal.integrated.fontSize": 14,
-    "terminal.integrated.fontWeight": "normal",
-    "editor.inlayHints.enabled": "offUnlessPressed",
-    "editor.inlayHints.padding": true,
-    "javascript.inlayHints.parameterNames.enabled": "all",
-    "typescript.inlayHints.parameterNames.enabled": "all",
-    "editor.inlayHints.fontSize": 12,
-    "workbench.colorCustomizations": {
-        "editorInlayHint.background": "#414141",
-        "editorInlayHint.foreground": "#b9b9b9"
-    },
+  //"editor.fontFamily": "JetBrains Mono",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "normal",
+  "editor.tabCompletion": "on",
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 4,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontWeight": "normal",
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "editor.inlayHints.padding": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "editor.inlayHints.fontSize": 12,
+  "workbench.colorCustomizations": {
+    "editorInlayHint.background": "#414141",
+    "editorInlayHint.foreground": "#b9b9b9"
+  },
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
