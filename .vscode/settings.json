@@ -22,5 +22,8 @@
     "editorInlayHint.foreground": "#b9b9b9"
   },
 
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
