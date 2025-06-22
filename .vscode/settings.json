@@ -1,7 +1,7 @@
 {
   //"editor.fontFamily": "JetBrains Mono",
   "editor.fontFamily": "JetBrains Mono",
-  "editor.fontSize": 14,
+  "editor.fontSize": 16,
   "editor.lineHeight": 24,
   "editor.fontLigatures": true,
   "editor.fontWeight": "normal",
@@ -26,4 +26,43 @@
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
+
+  // "editor.semanticTokenColorCustomizations": {
+  //   "[Dracula Pro (Lincoln)]": {
+  //     "rules": {
+  //       "property": "#E06C75"
+  //       "class": {
+  //         "foreground": "#6CD9C7"
+  //       },
+  //       "parameter": {
+  //         "foreground": "#F2AF57"
+  //       },
+  //       "keyword": {
+  //         "foreground": "#ff0000"
+  //       }
+  //     }
+  //   }
+  // }
+
+  // "editor.tokenColorCustomizations": {
+  //   "textMateRules": [
+  //     {
+  //       "scope": "meta.object.member",
+  //       "settings": {
+  //         "foreground": "#E06C75"
+  //       }
+  //     },
+  //     {
+  //       "scope": "support.constant.property",
+  //       "settings": {
+  //         "foreground": "#E06C75"
+  //       }
+  //     },
+  //     {
+  //       "scope": "meta.object-literal.key",
+  //       "settings": {
+  //         "foreground": "#E06C75"
+  //       }
+  //     }
+  //   ]
 }
