@@ -19,7 +19,7 @@ export default async function status(req, res) {
     dependencies: {
       database: {
         //status: null,
-        max_connections: Number(dbMaxConnectionsValue),
+        max_connections: parseInt(dbMaxConnectionsValue),
         opened_connections: dbOpenedConnectionsValue,
         version: dbVersionValue,
       },
